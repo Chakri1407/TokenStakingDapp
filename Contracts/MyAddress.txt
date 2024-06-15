@@ -1,0 +1,5 @@
+The Address which i used and deployed, these are for reference purpose only.
+
+RWT - 0xee928987ccd98b0bd6f5a18196cc0b394d02c4b2 
+STK - 0xbbd25806a643ed2207a6e6c39af67f26303178e7 
+staking - 0xd92d606406200c5715f78b605fd29152fb31a1a8 
