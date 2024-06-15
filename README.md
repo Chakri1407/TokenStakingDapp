@@ -7,7 +7,7 @@ Welcome to the CryptoStakingDapp project! This repository contains instructions 
 
 The StakingDappYT is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per second, rewarding users based on their staked amount and duration.
 
-![alt text]()
+![alt text](https://github.com/Chakri1407/TokenStakingDapp/blob/main/Client/src/assets/Project-pic.png)
 
 
 ### Key Tokens
